@@ -55,6 +55,15 @@ main {
   margin: 0.2em 0;
 }
 
+#sessions h3 {
+  margin: 0.2em 0;
+}
+
+#sessions .description {
+  font-size: 0.6em;
+  margin: 0.2em 0;
+}
+
 ul {
   list-style-type: none;
 }
