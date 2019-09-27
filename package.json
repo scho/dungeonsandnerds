@@ -1,0 +1,17 @@
+{
+  "name": "dungeonsandnerds",
+  "version": "1.0.0",
+  "description": "Some things to print for our Dungeons & Dragons group",
+  "scripts": {
+    "dev": "http-server -a localhost -p 8000 public/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/scho/dungeonsandnerds.git"
+  },
+  "author": "Georg Meyer",
+  "homepage": "https://github.com/scho/dungeonsandnerds",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
